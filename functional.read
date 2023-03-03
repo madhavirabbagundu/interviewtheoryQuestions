@@ -1,0 +1,3 @@
+functional components means it is a plan javascript . function which accepts the props as arguments and returns a react element.
+
+in this functional componenets we can use the hooks  but we are not able to apply hooks in the class components

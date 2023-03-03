@@ -1,0 +1,2 @@
+UseState is a hook. It allows that to track the state in a functional components
+the state is a generally refers to a data or properties that need to be tracking in an application.

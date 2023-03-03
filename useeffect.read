@@ -1,0 +1,4 @@
+useEffect is a hook and inbuilt function  .
+We can use the useeffect when we can fecthing the data or directly updaing the dom. this is called the useeffect.
+
+in this we can fetch the api then we can get the data throught the useeffect.

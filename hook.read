@@ -1,0 +1,4 @@
+Hook is a in built functional. it is very useful for mouniting and unmounting and updating .
+Here MOunting means the data is inserted or created into a dom.
+Ummounting means is the we can delete or hide the data in the dom is called unmounting
+updating means is has a data but we can change the data in that data it s called updating.
